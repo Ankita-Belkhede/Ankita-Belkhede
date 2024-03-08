@@ -6,6 +6,14 @@
 💼 I'm passionate about becoming a Data Scientist and Data Analyst.
 🌐 I'm always eager to collaborate on exciting data-related projects or discuss technology and data science topics.
 
+## Skills
+
+📊 Data Analysis
+📈 Data Visualization
+💻 Python
+📉 Power bi
+🎨 Tableau
+
 
 
 
