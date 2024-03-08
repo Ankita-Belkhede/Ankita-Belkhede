@@ -1,4 +1,4 @@
-#### Hi there, I'm Ankita 
+######## Hi there, I'm Ankita 
 
 📚 I'm currently learning Data Science and exploring the fascinating world of data analysis, data visualization, and technology.
 💼 I'm passionate about becoming a Data Scientist and Data Analyst.
