@@ -3,16 +3,17 @@
 ## About Me
 
 * 📚 I'm currently learning Data Science and exploring the fascinating world of data analysis, data visualization, and technology.
-💼 I'm passionate about becoming a Data Scientist and Data Analyst.
-🌐 I'm always eager to collaborate on exciting data-related projects or discuss technology and data science topics.
+* 💼 I'm passionate about becoming a Data Scientist and Data Analyst.
+* 🌐 I'm always eager to collaborate on exciting data-related projects or discuss technology and data science topics.
 
 ## Skills
 
-📊 Data Analysis
-📈 Data Visualization
-💻 Python
-📉 Power bi
-🎨 Tableau
+* 📊 Data Analysis
+* 📈 Data Visualization
+* 💻 Python
+* 📉 Power BI
+* 📚 SQL
+  
 
 
 
