@@ -3,7 +3,7 @@
 ## About Me
 
 
-* 📚- **Certified Data Analyst & Engineer** with 1+ year of experience in **data analysis and engineering**.
+* 📚- **Certified Data Analyst & Engineer** with hnads on experience in **data analysis and engineering**.
 - Specializes in **Azure cloud environments**.
 - Proficient in **Python, SQL, Power BI**, and **Azure Data Factory**.
 - Skilled in:
