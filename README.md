@@ -2,8 +2,15 @@
 
 ## About Me
 
-* 📚 I'm currently learning Data Science and exploring the fascinating world of data analysis, data visualization, and technology.
-* 💼 I'm passionate about becoming a Data Scientist and Data Analyst.
+
+* 📚- **Certified Data Analyst & Engineer** with 1+ year of experience in **data analysis and engineering**.
+- Specializes in **Azure cloud environments**.
+- Proficient in **Python, SQL, Power BI**, and **Azure Data Factory**.
+- Skilled in:
+  - **Designing data pipelines** and **implementing ETL processes**.
+  - **Building interactive dashboards** for data-driven decision-making.
+  - **Advanced data transformation** and **cloud-based solutions** for seamless **data integration**.
+- Passionate about turning **complex datasets** into **actionable insights**.
 * 🌐 I'm always eager to collaborate on exciting data-related projects or discuss technology and data science topics.
 
 ## Skills
